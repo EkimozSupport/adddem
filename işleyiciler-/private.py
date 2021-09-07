@@ -19,17 +19,17 @@ Beni grubunuza ekleyin ve özgürce müzik çalın!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url="https://github.com/Infinity-Bots/GroupMusicPlayerBot")
+                        "🛠 Source Code 🛠", url="Kizilsancakbilgi")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Grup", url="https://t.me/ApheMusicSupport"
+                        "💬 Grup", url="https://t.me/MangoDestej"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Kanal", url="https://t.me/ApheMusicNews"
+                        "🔊 Kanal", url="https://t.me/kizilsancakbilgi"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Beni Grubuna Ekle ➕", url="https://t.me/ApheMusicbot?startgroup=true"
+                        "➕ Beni Grubuna Ekle ➕", url="https://t.me/SancakMusicbot?startgroup=true"
                     )]
             ]
         ),
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/ApheMusicNews")
+                        "🔊 Channel", url="https://t.me/kizilsancakbilgi")
                 ]
             ]
         )
